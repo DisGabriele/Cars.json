@@ -991,7 +991,7 @@
   },
   {
     "name": "Lamborghini",
-    "img_url": "https://www.carlogos.org/car-logos/lamborghini-logo-1000x1100-show.png",
+    "img_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/lamborghini.png",
     "models": ["Aventador", "Huracán", "Urus"]
   },
   {
