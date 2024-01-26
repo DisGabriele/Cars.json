@@ -621,7 +621,7 @@
   },
   {
     "name": "Ford",
-    "img_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ford-Motor-Company-Logo.png",
+    "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ford_Motor_Company_Logo.svg",
     "models": ["F-150", "Escape", "Explorer"]
   },
   {
@@ -786,7 +786,7 @@
   },
   {
     "name": "Honda",
-    "img_url": "https://www.carlogos.org/car-logos/honda-logo-1700x1150-show.png",
+    "img_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/honda.png",
     "models": ["Civic", "Accord", "CR-V"]
   },
   {
@@ -1371,7 +1371,7 @@
   },
   {
     "name": "Porsche",
-    "img_url": "https://www.carlogos.org/car-logos/porsche-logo-2100x1100-show.png",
+    "img_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/porsche.png",
     "models": ["911", "Cayenne", "Panamera"]
   },
   {
@@ -1641,7 +1641,7 @@
   },
   {
     "name": "Tesla",
-    "img_url": "https://www.carlogos.org/car-logos/tesla-logo-2200x2800-show.png",
+    "img_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/tesla.png",
     "models": ["Model S", "Model 3", "Model X"]
   },
   {
@@ -1661,7 +1661,7 @@
   },
   {
     "name": "Toyota",
-    "img_url": "https://www.carlogos.org/car-logos/toyota-logo-2019-3700x1200-show.png",
+    "img_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/toyota.png",
     "models": ["Camry", "Corolla", "Rav4"]
   },
   {
